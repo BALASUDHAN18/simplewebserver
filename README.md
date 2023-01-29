@@ -67,9 +67,7 @@ httpd.serve_forever()
      5. Angular JS
  
  
- 
- 
- ![GitHub Logo](file:///serveroutput.png)
+
      
      
    
